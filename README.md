@@ -34,5 +34,3 @@ Background-Color-Changer/
 **Ankit Tadiyal**
 
 GitHub: [https://github.com/ankittadiyal](https://github.com/ankittadiyal)
-
-⭐ If you like this project, don't forget to give it a star!
